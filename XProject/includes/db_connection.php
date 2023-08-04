@@ -1,6 +1,6 @@
 <?php
 $host = "localhost";
-$username = "employees";
+$username = "root";
 $password = "";
 $database = "xproject";
 
